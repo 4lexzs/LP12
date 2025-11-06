@@ -1,8 +1,8 @@
 # Projektantrag Lernperiode-12
 
-**Name:** [Ihr Name]  
+**Name:** Edwin Alexander Paucar Vidal  
 **Datum:** 6. November 2025  
-**Praktikum bei:** Tillner GmbH (tusks.io)
+**Praktikum bei:** Tillner GmbH
 
 ---
 
@@ -20,7 +20,7 @@ Node.js ist für das Backend, Vue.js für das Frontend, GraphQL für die Kommuni
 
 ---
 
-## Grobe Beschreibung des Projekts (50-100 Wörter)
+## Grobe Beschreibung des Projekts
 
 Ich möchte eine einfache Aufgabenverwaltungs-App bauen. Die App soll Aufgaben erstellen, anzeigen, bearbeiten und löschen können. Jede Aufgabe hat einen Titel, eine Beschreibung und einen Status (offen, in Arbeit, erledigt).
 
