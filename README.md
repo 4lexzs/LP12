@@ -1,4 +1,4 @@
-# Projektantrag Lernperiode-12
+# Lernperiode-12
 
 **Name:** Edwin Alexander Paucar Vidal  
 **Datum:** 6. November 2025  
