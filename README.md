@@ -30,37 +30,37 @@ Das Ziel ist, dass ich die Grundlagen von Node.js, GraphQL, Vue.js und PostgreSQ
 
 ## 7 User Stories
 
-### Epic 1: Benutzer-Login
+### Benutzer-Login
 **Als** Mitarbeiter **möchte ich** mich einloggen können, **damit** nur ich meine Daten sehen kann.
 
 ---
 
-### Epic 2: Aufgaben erstellen und verwalten
+### Aufgaben erstellen und verwalten
 **Als** Benutzer **möchte ich** neue Aufgaben erstellen, bearbeiten und löschen können, **damit** ich meine To-Do Liste verwalten kann.
 
 ---
 
-### Epic 3: Aufgaben anzeigen und filtern
+### Aufgaben anzeigen und filtern
 **Als** Benutzer **möchte ich** alle Aufgaben in einer Liste sehen und nach Status filtern, **damit** ich einen Überblick über meine Aufgaben habe.
 
 ---
 
-### Epic 4: Aufgabenstatus ändern
+### Aufgabenstatus ändern
 **Als** Benutzer **möchte ich** den Status einer Aufgabe ändern können (offen/in Arbeit/erledigt), **damit** ich meinen Fortschritt sehen kann.
 
 ---
 
-### Epic 5: Einfaches Dashboard
+### Einfaches Dashboard
 **Als** Benutzer **möchte ich** sehen wie viele Aufgaben ich habe (offen/in Arbeit/erledigt), **damit** ich einen schnellen Überblick bekomme.
 
 ---
 
-### Epic 6: Datenbank richtig aufsetzen
+### Datenbank richtig aufsetzen
 **Als** Entwickler **möchte ich** die Datenbank richtig strukturieren, **damit** alle Daten sauber gespeichert werden.
 
 ---
 
-### Epic 7: Alles mit Docker starten
+### Alles mit Docker starten
 **Als** Entwickler **möchte ich** die ganze App mit einem Befehl starten können, **damit** die Installation einfach ist.
 
 ---
