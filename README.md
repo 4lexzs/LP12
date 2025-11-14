@@ -33,10 +33,20 @@ Das Ziel ist, dass ich die Grundlagen von Node.js, GraphQL, Vue.js und PostgreSQ
 ### Benutzer-Login
 **Als** Mitarbeiter **möchte ich** mich einloggen können, **damit** nur ich meine Daten sehen kann.
 
+- [ ] Ich lerne wie Authentifizierung, JWT und Passwort-Hashing funktionieren.
+- [ ] Ich erstelle die User-Tabelle und GraphQL Mutations für Login und Registrierung.
+- [ ] Ich baue die Login-Seite mit Formular und speichere den Token im Browser.
+- [ ] Ich teste den Login mit verschiedenen Benutzern und schreibe die Dokumentation.
+
 ---
 
 ### Aufgaben erstellen und verwalten
 **Als** Benutzer **möchte ich** neue Aufgaben erstellen, bearbeiten und löschen können, **damit** ich meine To-Do Liste verwalten kann.
+
+- [ ] Ich lerne wie CRUD-Operationen und GraphQL Mutations funktionieren.
+- [ ] Ich erstelle die Task-Tabelle und GraphQL Mutations für erstellen, bearbeiten und löschen.
+- [ ] Ich baue das Formular und die Liste für Aufgaben mit allen Buttons.
+- [ ] Ich teste alle CRUD-Funktionen und aktualisiere die Dokumentation.
 
 ---
 
