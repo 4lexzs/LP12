@@ -33,10 +33,10 @@ Das Ziel ist, dass ich die Grundlagen von Node.js, GraphQL, Vue.js und PostgreSQ
 ### Benutzer-Login
 **Als** Mitarbeiter **möchte ich** mich einloggen können, **damit** nur ich meine Daten sehen kann.
 
-- [ ] Ich lerne wie Authentifizierung, JWT und Passwort-Hashing funktionieren.
-- [ ] Ich erstelle die User-Tabelle und GraphQL Mutations für Login und Registrierung.
-- [ ] Ich baue die Login-Seite mit Formular und speichere den Token im Browser.
-- [ ] Ich teste den Login mit verschiedenen Benutzern und schreibe die Dokumentation.
+- [X] Ich lerne wie Authentifizierung, JWT und Passwort-Hashing funktionieren.
+- [X] Ich erstelle die User-Tabelle und GraphQL Mutations für Login und Registrierung.
+- [X] Ich baue die Login-Seite mit Formular und speichere den Token im Browser.
+- [X] Ich teste den Login mit verschiedenen Benutzern.
 
 ---
 
